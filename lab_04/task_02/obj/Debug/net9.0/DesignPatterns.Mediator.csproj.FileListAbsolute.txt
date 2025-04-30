@@ -1,0 +1,15 @@
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/bin/Debug/net9.0/DesignPatterns.Mediator
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/bin/Debug/net9.0/DesignPatterns.Mediator.deps.json
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/bin/Debug/net9.0/DesignPatterns.Mediator.runtimeconfig.json
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/bin/Debug/net9.0/DesignPatterns.Mediator.dll
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/bin/Debug/net9.0/DesignPatterns.Mediator.pdb
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.AssemblyInfoInputs.cache
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.AssemblyInfo.cs
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.csproj.CoreCompileInputs.cache
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.sourcelink.json
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.dll
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/refint/DesignPatterns.Mediator.dll
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.pdb
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/DesignPatterns.Mediator.genruntimeconfig.cache
+/Users/systnager/PycharmProjects/__not_clear_code/lab_04/task_02/obj/Debug/net9.0/ref/DesignPatterns.Mediator.dll
